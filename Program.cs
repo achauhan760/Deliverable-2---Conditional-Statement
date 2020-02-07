@@ -32,7 +32,7 @@ namespace Deliverable_2___Conditional_Statement
 
             else if (grade >= 82 && grade <= 87)
             {
-                Console.WriteLine("Your grade is an B");
+                Console.WriteLine("Your grade is a B");
             }
 
             else if (grade >= 80 && grade <= 81)
